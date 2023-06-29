@@ -1,4 +1,6 @@
-# You one may choose only one of the following driver installations
+# You may choose only one of the following driver to be install;
+
+
 
 # Kali Linux
   
