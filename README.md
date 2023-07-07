@@ -1,4 +1,4 @@
-# TPLINK TL-WN722N V2/V3 Drivers with Monitor Monitor Mode & Packets Injection support
+# TPLINK TL-WN722N V2/V3 Drivers with Monitor Mode & Packets Injection support
 
 
 # Debian | Kali | Ubuntu by Aircrack-Ng
