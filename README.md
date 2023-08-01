@@ -16,8 +16,8 @@
  After Boot:
 
     sudo airmon-ng check kill
-    sudo airmon-ng start wlan0
-    sudo airodump-ng wlan0
+    sudo airmon-ng start wlan1
+    sudo airodump-ng wlan1
     
 
 
@@ -47,5 +47,5 @@
 After Boot:
 
     sudo airmon-ng check kill
-    sudo airmon-ng start wlan0
-    sudo airodump-ng wlan0
+    sudo airmon-ng start wlan1
+    sudo airodump-ng wlan1
