@@ -2,8 +2,9 @@
 
 ![image](https://github.com/xiv3r/TP-Link-TLWN722N-V2-V3-RTL8188EUS/assets/117867334/debb6ab4-9b9b-46e9-9632-27530d4c7c3b)
 
-# <h1 align="center"> Debian | Kali | Ubuntu </h1>
-© Aircrack-Ng
+
+# <h1 align="center"> Debian | Kali | Ubuntu © Aircrack-Ng </h1>
+
 
 - Run as root:
   
@@ -25,9 +26,9 @@
 
 
 
-#  <h1 align="center">  Debian | Kali | Ubuntu </h1>
-© ivanovborislav
- 
+#  <h1 align="center">  Debian | Kali | Ubuntu © ivanovborislav </h1>
+
+
 - Run as root:
 
       sudo -i
